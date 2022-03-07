@@ -3,7 +3,9 @@ h1 {
     color: red;
 }
 
-*  {
+body  {
+    background-image: url(images/lucas-rodrigues.jpg);
     background-color: black;
     color: white;
+    font-family: "Garamond", "Georgia", "Times New Roman", serif;
 }
