@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "Yataghan";
+    src: url(fonts/yataghan.ttf);
+}
+
+
 h1 {
     font-size: 60px;
     color: red;
@@ -7,7 +13,7 @@ body  {
     background-image: url(images/lucas-rodrigues.jpg);
     background-color: black;
     color: white;
-    font-family: "Garamond", "Georgia", "Times New Roman", serif;
+    font-family: "Yataghan", "Georgia", "Times New Roman", serif;
 }
 
 .food-pic {
